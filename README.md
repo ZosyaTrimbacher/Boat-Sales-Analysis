@@ -28,12 +28,12 @@ This project used the following tools and libraries:
 
 The code is split into several Jupyter notebooks, corresponding to each step of the analysis:
 
-- 6.1_Research_Questions.ipynb
-- 6.2_Exploratory_Analysis.ipynb
-- 6.3_Geospatial_Visualization.ipynb
-- 6.4_Regression_Analysis.ipynb
-- 6.5_Clustering.ipynb
-- 6.6_Time_Series_Exploration.ipynb
+- Exercise 6.1 Sourcing Open Data.ipynb
+- Exercise 6.2 Exploring Relationships.ipynb
+- Exercise 6.3 Geographical Visualizations with Python.ipynb
+- Exercise 6.4 Supervised Machine Learning Regression.ipynb
+- Exercise 6.5 Machine Learning and Clustering.ipynb
+- Exercise 6.6 Sourcing & Analyzing Time Series Data.ipynb
 
 # Resources
 
