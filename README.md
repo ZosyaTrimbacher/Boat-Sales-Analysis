@@ -1,3 +1,5 @@
+!(https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bHV4dXJ5JTIweWFjaHR8ZW58MHx8MHx8fDA%3D)
+
 # Objective
 
 This project explores second-hand boat listings across Europe to uncover what factors drive pricing. Using data analysis and machine learning techniques, the goal was to determine whether attributes like size, geography, and views can help explain price variation and improve pricing strategies.
