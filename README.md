@@ -34,3 +34,7 @@ The code is split into several Jupyter notebooks, corresponding to each step of 
 - 6.4_Regression_Analysis.ipynb
 - 6.5_Clustering.ipynb
 - 6.6_Time_Series_Exploration.ipynb
+
+# Resources
+
+Tableau Storyboard for this project can be found [here](https://public.tableau.com/app/profile/zosya.trimbacher/viz/Exercise6_7FinalStory/Summary)
