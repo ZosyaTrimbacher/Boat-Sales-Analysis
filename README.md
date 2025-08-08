@@ -26,9 +26,9 @@ This project used the following tools and libraries:
 
 The code is split into several Jupyter notebooks, corresponding to each step of the analysis:
 
-6.1_Research_Questions.ipynb
-6.2_Exploratory_Analysis.ipynb
-6.3_Geospatial_Visualization.ipynb
-6.4_Regression_Analysis.ipynb
-6.5_Clustering.ipynb
-6.6_Time_Series_Exploration.ipynb
+- 6.1_Research_Questions.ipynb
+- 6.2_Exploratory_Analysis.ipynb
+- 6.3_Geospatial_Visualization.ipynb
+- 6.4_Regression_Analysis.ipynb
+- 6.5_Clustering.ipynb
+- 6.6_Time_Series_Exploration.ipynb
